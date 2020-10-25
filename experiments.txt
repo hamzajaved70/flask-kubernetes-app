@@ -1,0 +1,92 @@
+Threads: 1 Replicas: 1
+
+Total client script time: 120.70614409446716, average thread time: 0.942442525178194
+
+Threads: 2 Replicas: 1
+
+Total client script time: 81.62912726402283, average thread time: 1.2716305647045374
+
+Threads: 4 Replicas: 1
+
+Total client script time: 78.3605363368988, average thread time: 2.4310605451464653
+
+Threads: 8 Replicas: 1
+
+Total client script time: 80.41742038726807, average thread time: 4.970128184184432
+
+Threads: 16 Replicas: 1
+
+Total client script time: 85.20400714874268, average thread time: 10.400962684303522
+
+Threads: 32  Replicas: 1
+
+
+
+Threads: 1 Replicas: 2
+
+Total client script time: 126.67307925224304, average thread time: 0.9890552293509245
+
+Threads: 2 Replicas: 2
+
+Total client script time: 70.92762494087219, average thread time: 1.1006365194916725
+
+Threads: 4 Replicas: 2
+
+Total client script time: 55.003782987594604, average thread time: 1.7037849444895983
+
+Threads: 8 Replicas: 2
+
+Total client script time: 42.46782374382019, average thread time: 2.6147229224443436
+
+Threads: 16 Replicas: 2
+
+Total client script time: 45.317917823791504, average thread time: 5.398559490218759
+
+Threads: 32 Replicas: 2
+
+
+
+Threads: 1 Replicas: 3
+
+Total client script time: 124.63585925102234, average thread time: 0.9731400944292545
+
+Total client script time: 118.48476195335388, average thread time: 0.9250629171729088
+
+Total client script time: 120.1025800704956, average thread time: 0.9377018641680479
+
+Threads: 2 Replicas: 3
+
+Total client script time: 75.21724390983582, average thread time: 1.1672803107649088
+
+Total client script time: 64.40352439880371, average thread time: 1.003744676709175
+
+Total client script time: 69.22962856292725, average thread time: 1.0717803835868835
+
+Threads: 4 Replicas: 3
+
+Total client script time: 46.53244400024414, average thread time: 1.432297931984067
+
+Total client script time: 46.505532026290894, average thread time: 1.4423951599746943
+
+Total client script time: 42.728267192840576, average thread time: 1.3265421520918608
+
+Threads: 8 Replicas: 3
+
+Total client script time: 34.74959421157837, average thread time: 2.0962759144604206
+
+Total client script time: 35.22798800468445, average thread time: 2.13809578679502
+
+Total client script time: 35.019423723220825, average thread time: 2.1661521326750517
+
+Threads: 16 Replicas: 3
+
+Total client script time: 33.694775342941284, average thread time: 4.055491274222732
+
+Total client script time: 36.87230467796326, average thread time: 4.3520946726202965
+
+
+
+Threads: 32 Replicas: 3
+
+
+
