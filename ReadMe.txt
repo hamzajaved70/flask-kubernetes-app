@@ -1,6 +1,6 @@
 # iWebLens_client.py
 
-iWebLens_client  is a Python script to invoke your web service endpoint according to the Assignment 1 specification
+iWebLens_client  is a Python script to invoke your web service endpoint
 
 ## Installation
 
